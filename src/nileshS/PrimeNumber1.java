@@ -17,7 +17,6 @@ public class PrimeNumber1 {
 				}
 				
 			}
-			
 			if(flag == true)
 				System.out.println(j +" is prime number");
 		}
