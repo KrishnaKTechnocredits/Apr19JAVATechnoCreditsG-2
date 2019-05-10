@@ -1,9 +1,9 @@
-package firstAssignment;
+package nikhilD;
 
 public class AreaPerimeter {
 	
 	public int area(int x, int y){
-		int area = x*y;
+		int area = x*y;// x=length & y= width
 		System.out.println("Area of Rectangle : " + area);
 		return area;
 	}
