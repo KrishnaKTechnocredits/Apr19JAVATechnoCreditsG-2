@@ -1,4 +1,4 @@
-package firstAssignment;
+package nikhilD;
 
 import java.util.Scanner;
 
