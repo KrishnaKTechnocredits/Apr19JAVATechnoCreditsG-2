@@ -1,4 +1,4 @@
-package assignments;
+package shankarJ;
 //using third variable
 public class SwapNumbers3rd {
 
