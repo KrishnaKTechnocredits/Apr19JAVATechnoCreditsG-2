@@ -1,4 +1,4 @@
-package snehaN;
+package payalY;
 
 class JavaProgram1 {
 
